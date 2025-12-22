@@ -41,4 +41,11 @@ I am a versatile **Full Stack Expert**, **IT Support Specialist**, and **Network
 
 ---
 
+---
+
+### 🌐 Research & Identity
+* **ORCID iD:** [https://orcid.org/0009-0009-2198-8736](https://orcid.org/0009-0009-2198-8736)
+* **Organization:** Manlham Tech Support
+* **Focus:** Full Stack Development & IT Infrastructure Security
+
 *✨ "I believe in building technology that works for your business, not against it."*

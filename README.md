@@ -17,12 +17,12 @@ I am a versatile **Full Stack Expert**, **IT Support Specialist**, and **Network
 
 ### 💼 Professional Experience
 
-#### **IT Support Specialist & Network Administrator** | [Your Company/Freelance] 
+#### **IT Support Specialist & Network Administrator** | Manlham Tech Support. 
 * Diagnose and resolve complex hardware/software issues for growing teams.
 * Design and deploy secure network infrastructures including routers, switches, and firewalls.
 * Implement proactive maintenance and backup solutions to minimize business downtime.
 
-#### **Full Stack Developer** | [Your Company/Project Name]
+#### **Full Stack Developer** | Fly Bring Smile.
 * Build responsive, high-performance web applications tailored to brand identity.
 * Optimize websites for speed, SEO, and user experience.
 

@@ -37,7 +37,7 @@ I am a versatile **Full Stack Expert**, **IT Support Specialist**, and **Network
 ### 📬 Connect with me
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 * **Upwork:** [View My Upwork Profile](https://www.upwork.com/freelancers/your-id)
-* **Website:** [gatdongkim.vercel.app](https://gatdongkim.vercel.app)
+* **Website:** [gatdongkim.vercel.app](https://gatdongkim.vercel.app) | [gatdong-kim.vercel.app](https://gatdong-kim.vercel.app)
 
 ---
 

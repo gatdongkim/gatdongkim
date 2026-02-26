@@ -17,22 +17,22 @@ I am a versatile **Full Stack Expert**, **IT Support Specialist**, and **Network
 
 ### 💼 Professional Experience
 
-#### **Software Development Intern** | SkillLink Nexus Ltd.
+#### **SkillLink Nexus Ltd** | Software Development Intern.
 **Dec 2025 - Feb 2026**
 * Contributed to the development of web-based solutions using modern tech stacks.
 * Collaborated with senior developers to troubleshoot bugs and implement new features.
 * Participated in the full development lifecycle, from initial concept to deployment.
 
-#### **Full Stack Developer** | Fly Bring Smile.
+#### **Fly Bring Smile** | System Administrator.
 **Jan 2021 - Present**
-* Build responsive, high-performance web applications tailored to brand identity.
-* Optimize websites for speed, SEO, and user experience.
+* Managed server infrastructure and ensured 99.9% uptime for business-critical applications.
+* Optimized internal workflows by migrating legacy systems to cloud-based environments.
 
-#### **IT Support Specialist & Network Administrator** | Manlham Tech Support.
+#### **Manlham Tech Support** | Founder / Lead Systems Architect.
 **June 2020 - Present**
-* Diagnose and resolve complex hardware/software issues for growing teams.
-* Design and deploy secure network infrastructures including routers, switches, and firewalls.
-* Implement proactive maintenance and backup solutions to minimize business downtime.
+* Designed and managed secure IT ecosystems for various clients, focusing on network stability and data integrity.
+* Deployed proactive maintenance protocols that reduced system downtime by [X]%.
+* Integrated custom software solutions to automate routine IT support tasks.
 
 ---
 

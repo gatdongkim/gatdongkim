@@ -18,7 +18,7 @@ I am a versatile **Full Stack Expert**, **IT Support Specialist**, and **Network
 ### 💼 Professional Experience
 
 #### **Software Development Intern** | SkillLink Nexus Ltd.
-**Feb 2025 - Dec 2025**
+**Dec 2025 - Feb 2026**
 * Contributed to the development of web-based solutions using modern tech stacks.
 * Collaborated with senior developers to troubleshoot bugs and implement new features.
 * Participated in the full development lifecycle, from initial concept to deployment.
